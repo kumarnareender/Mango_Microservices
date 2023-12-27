@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fiverr Projects\\Mango\\Mango.Web\\Mango.Web.csproj": {}
+    "D:\\Learning\\Mango_Microservices\\Mango.Web\\Mango.Web.csproj": {}
   },
   "projects": {
-    "E:\\Fiverr Projects\\Mango\\Mango.Web\\Mango.Web.csproj": {
+    "D:\\Learning\\Mango_Microservices\\Mango.Web\\Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fiverr Projects\\Mango\\Mango.Web\\Mango.Web.csproj",
+        "projectUniqueName": "D:\\Learning\\Mango_Microservices\\Mango.Web\\Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "E:\\Fiverr Projects\\Mango\\Mango.Web\\Mango.Web.csproj",
+        "projectPath": "D:\\Learning\\Mango_Microservices\\Mango.Web\\Mango.Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Fiverr Projects\\Mango\\Mango.Web\\obj\\",
+        "outputPath": "D:\\Learning\\Mango_Microservices\\Mango.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E/pRbAH9bzuoV+vkeGuefO1n/4gQWsSR0uG+7rXihoxKBCJzORGHQTYZZelDb/rKGRuSbI4r78gsXU1SubHkSw==",
+  "dgSpecHash": "XyIcGob7lvsb0pI/cUXrR41n9C5gRWcuGTFDgIZ7yPFIk25kVJcLU3PKNB5prHXHHWinJOGk/fZm8geIrfDaIA==",
   "success": true,
-  "projectFilePath": "E:\\Fiverr Projects\\Mango\\Mango.Web\\Mango.Web.csproj",
+  "projectFilePath": "D:\\Learning\\Mango_Microservices\\Mango.Web\\Mango.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",

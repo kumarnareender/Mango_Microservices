@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fiverr Projects\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {}
+    "D:\\Learning\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {}
   },
   "projects": {
-    "E:\\Fiverr Projects\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {
+    "D:\\Learning\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fiverr Projects\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+        "projectUniqueName": "D:\\Learning\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
         "projectName": "Mango.Services.CouponAPI",
-        "projectPath": "E:\\Fiverr Projects\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+        "projectPath": "D:\\Learning\\Mango_Microservices\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Fiverr Projects\\Mango\\Mango.Services.CouponAPI\\obj\\",
+        "outputPath": "D:\\Learning\\Mango_Microservices\\Mango.Services.CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
